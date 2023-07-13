@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "algorithm.h": "c",
+        "i2c.h": "c"
+    }
+}
